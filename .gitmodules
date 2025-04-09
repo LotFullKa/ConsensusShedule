@@ -1,6 +1,0 @@
-[submodule "consensus-scheduler"]
-	path = consensus-scheduler
-	url = ./consensus-scheduler
-[submodule "prog-autom-consensus-analyzer"]
-	path = prog-autom-consensus-analyzer
-	url = ./prog-autom-consensus-analyzer
